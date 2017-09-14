@@ -1,4 +1,4 @@
-# AzSDK Subscription Security Package(SS)
+b# AzSDK Subscription Security Package(SS)
 
 ![Subscription_Security](../Images/Subscription_Security.JPG)
 
@@ -33,7 +33,7 @@
 	
 - [Setup Azure Security Center (ASC) on your subscription](Readme.md#setup-azure-security-center-asc-on-your-subscription)
 
-### [AzSDK: Suscription Security - ARM Policy](Readme.md#azsdk-suscription-security---arm-policy-1)
+### [AzSDK: Subscription Security - ARM Policy](Readme.md#azsdk-suscription-security---arm-policy-1)
 
 - [Overview](Readme.md#overview-4)
 - [Setup ARM policies for your subscription](Readme.md#setup-azsdk-arm-policies-on-your-subscription)
